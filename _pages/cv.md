@@ -11,30 +11,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Geology (Geophysics concentration), North Carolina State University, 2009
+* M.S. in Geophysics (Seismology), North Carolina State University, 2014
+* Ph.D in Geophysics (Computational Seismology), Boise State University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2008-2009: Intern (research assistant)
+  * NC Geological Survey
+  * Duties included: Geologic Field Mapping / ArcGIS 
+  * Supervisor: Dr. Skip Stoddard
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2010-2012: Staff Geophysicist
+  * Schnabel Engineering
+  * Duties included: Near surface geophysics (Data collection / processing) 
+  * Supervisor: Jeremy Strohmeyer
+
+* 2012-2015: Project Geophysicist
+  * Geo Solutions Ltd Inc
+  * Duties included: Near surface geophysics (Data collection / processing), Project Management
+  * Supervisor: Ron Crowson
+
+* 2016-2018: Research Assistant
+  * North Carolina State University
+  * Duties included: Master's in Seismology research (Microearthquake sequence analysis of Axial Seamount)
+  * Advisor: Dr. Del Bohnenstiehl
+
+* 2018-2019: Post Master's Research Assistant
+  * Pacific Northwest National Lab
+  * Duties included: Research and Project support for Geophysics/Geomechanics team
+  * Supervisor: Dr. Chris Strickland / Dr. Hunter Knox
+
+* 2019-present: Research Scientist
+  * Pacific Northwest National Lab
+  * Duties included: Research and Project support for Geophysics/Geomechanics team
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Problem Identification
+* Solution Implementation
+* Distributed Acoustic Sensing
+* Seismic Signal Processing
+* Data Inversion 
+* Velocity Tomography
+* Ambient Noise Seismic
+* Automatic Phase Picking
+* Seismic Data Analysis
+
 
 Publications
 ======
@@ -42,18 +66,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
