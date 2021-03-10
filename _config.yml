@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Parker Sprinkle's Website"
 title_separator          : "-"
 name                     : &name "Parker Sprinkle "
-description              : &description "I'm a geophysicist focusing in computational seismic methods for subsurface image and monitoring applications"
+description              : &description "Research Scientist at Pacific Northwest National Lab"
 url                      : https://parkersprinkle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "parkersprinkle.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Parker Sprinkle's Website"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Geophysicist focusing in computational seismic methods for subsurface image and monitoring applications"
+  location         : "PNW (Washington)"
+  employer         : "PNNL"
+ 
+
+  email            : "parker.sprinkle@pnnl.gov"
+  researchgate     : "https://www.researchgate.net/profile/D-Parker-Sprinkle"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "parkersprinkle"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3827-9636"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "PeskyScientist"
   vine             :
   weibo            :
   xing             :
